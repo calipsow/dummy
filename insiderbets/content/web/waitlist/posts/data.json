@@ -3,8 +3,8 @@
     "id": 0,
     "title": "Insiderbets Journal",
     "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-    "author": "Dennis Wilke",
-    "authorImage": "https://raw.githubusercontent.com/calipsow/dummy/main/insiderbets/content/web/waitlist/assets/author-01.jpg",
+    "author": "Insiderbets",
+    "authorImage": "/images/assets/logo/insiderbets_dark.png",
     "date": "Aug 27",
     "category": "General"
   },
@@ -12,8 +12,8 @@
     "id": 1,
     "title": "Know the Odds Before You Invest.",
     "content": "An AI-powered research tool that analyzes the likelihood a company can sustain revenue growth. Grounded in business model fundamentals and current market economics, it delivers a clear, unbiased signal on what the odds look like; both short and long term.",
-    "author": "Dennis Wilke",
-    "authorImage": "https://raw.githubusercontent.com/calipsow/dummy/main/insiderbets/content/web/waitlist/assets/author-02.jpg",
+    "author": "Insiderbets",
+    "authorImage": "/images/assets/logo/insiderbets_dark.png",
     "date": "Aug 24",
     "category": "Feature"
   },
@@ -21,8 +21,8 @@
     "id": 2,
     "title": "Supabase Integration",
     "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-    "author": "Dennis Wilke",
-    "authorImage": "https://raw.githubusercontent.com/calipsow/dummy/main/insiderbets/content/web/waitlist/assets/author-03.jpg",
+    "author": "Insiderbets",
+    "authorImage": "/images/assets/logo/insiderbets_dark.png",
     "date": "Aug 24",
     "category": "Behind The Build"
   },
@@ -30,8 +30,8 @@
     "id": 3,
     "title": "Release Version 0.4",
     "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
-    "author": "Dennis Wilke",
-    "authorImage": "https://raw.githubusercontent.com/calipsow/dummy/main/insiderbets/content/web/waitlist/assets/author-01.jpg",
+    "author": "Insiderbets",
+    "authorImage": "/images/assets/logo/insiderbets_dark.png",
     "date": "Aug 22",
     "category": "FAQ"
   }
