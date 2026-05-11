@@ -1,20 +1,31 @@
 [
   {
     "id": 0,
-    "title": "Insiderbets Journal",
-    "content": "When people upgrade from one version to another, it should be painfully clear when something will break. It should be possible to upgrade to a version that lists deprecations, remove what's deprecated, then upgrade to the version where the deprecations become removals.",
+    "title": "Hello there",
+    "content": "This is the announcement and feedback channel, where you find on what we're currently work on. If joined our waitlist, you'll ba able to vote for potential features and get early access to the financial part of the platform.",
     "author": "Insiderbets",
     "authorImage": "",
-    "date": "Aug 27",
+    "date": "Mai 12",
     "category": "General"
   },
   {
     "id": 1,
-    "title": "Know the Odds Before You Invest.",
-    "content": "An AI-powered research tool that analyzes the likelihood a company can sustain revenue growth. Grounded in business model fundamentals and current market economics, it delivers a clear, unbiased signal on what the odds look like; both short and long term.",
-    "author": "Insiderbets",
-    "authorImage": "",
+    "title": "Make Your Homework Before Investing",
+    "content": "Along side a stock you have an in-depth business analysis which covers the business as it hedge funds do it. You dont have to do the research yourself, but read at least once.",
+    "subContent": "Investing based on company value means looking at the company itself and how does it generate customer value. Then use this to make a prediction if they're likely to keep growing revenue in long term future (8 years)",
+    "author": "Value Investors: Peter Lynch, 30 Years ~ 29% in Profits; Warren Buffet: Legendary",
     "date": "Aug 24",
+    "authorImage": "",
+    "category": "Feature"
+  },
+  {
+    "id": 4,
+    "title": "Brokerage Service",
+    "content": "Optionally you can directly use the in-house brokerage service to place orders.",
+    "subContent": "Currently working on the last mile, then is the feature added.",
+    "author": "Insiderbets",
+    "date": "Mai 12",
+    "authorImage": "",
     "category": "Feature"
   },
   {
@@ -33,6 +44,6 @@
     "author": "Insiderbets",
     "authorImage": "",
     "date": "Aug 22",
-    "category": "FAQ"
+    "category": "Release"
   }
 ]
